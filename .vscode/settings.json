@@ -5,10 +5,8 @@
     "files.associations": {
         "*.css": "tailwindcss"
     },
-    "cSpell.words": [
-        "roboto"
-    ],
+    "cSpell.words": ["GONGADA", "GOWTHAM", "roboto"],
     "[xml]": {
         "editor.defaultFormatter": "redhat.vscode-xml"
-    },
+    }
 }

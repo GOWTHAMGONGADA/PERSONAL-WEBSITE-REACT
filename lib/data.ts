@@ -1,19 +1,22 @@
 import { IProject } from '@/types';
 
 export const GENERAL_INFO = {
-    email: 'tasmirolislam@gmail.com',
+    email: 'gowthamgongada@gmail.com',
 
     emailSubject: "Let's collaborate on a project",
-    emailBody: 'Hi Tajmirul, I am reaching out to you because...',
+    emailBody: 'Hi Gowtham, I am reaching out to you because...',
 
-    oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
+    oldPortfolio: 'https://gowthamgongada-test.netlify.app/',
     upworkProfile: 'https://www.upwork.com/freelancers/tajmirul',
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/Tajmirul' },
-    { name: 'linkedin', url: 'https://www.linkedin.com/in/tajmirul' },
-    { name: 'facebook', url: 'https://www.facebook.com/tajmirul.2000' },
+    { name: 'github', url: 'https://github.com/GOWTHAMGONGADA' },
+    {
+        name: 'linkedin',
+        url: 'https://www.linkedin.com/in/gongada-gowtham-kumar',
+    },
+    { name: 'Instagram', url: 'https://www.instagram.com/gowthamgongada' },
     { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
 ];
 

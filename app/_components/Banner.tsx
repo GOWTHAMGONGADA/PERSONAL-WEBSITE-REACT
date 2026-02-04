@@ -48,7 +48,7 @@ const Banner = () => {
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
-                            Tajmirul
+                            GOWTHAM GONGADA
                         </span>
                         . A creative Frontend Developer with 3+ years of
                         experience in building high-performance, scalable, and
@@ -77,7 +77,7 @@ const Banner = () => {
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            7+
+                            6+
                         </h5>
                         <p className="text-muted-foreground">
                             Completed Projects
@@ -85,7 +85,7 @@ const Banner = () => {
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            10K+
+                            4k+
                         </h5>
                         <p className="text-muted-foreground">Hours Worked</p>
                     </div>
