@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gowthamgongada.netlify.app/sitemap.xml
